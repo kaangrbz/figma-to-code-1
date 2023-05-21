@@ -6,11 +6,11 @@ const InfoBox = () => {
   return (
     <section className='flex items-center justify-center w-full px-[10%] py-5'>
         <div className='w-1/2 py-[80px] flex flex-col'>
-          <span className='text-[55px] text-slate-800 font-bold whitespace-nowrap'>We Design Impactful 
+          <h1 className='text-[55px] text-slate-800 font-bold whitespace-nowrap'>We Design Impactful 
             <span className='flex flex-row items-center'>
               Digital <span className='text-[#706fe5] border-[5px] border-dashed  border-[#706fe5] rounded-lg  ml-3 py-1 px-4'>Products</span>
             </span>
-          </span>
+          </h1>
 
           <p className='text-stone-600 text-lg max-w-lg my-10'>
             Help find solutions with intitutive and in accordance with client business goals we provide a high-quality services
