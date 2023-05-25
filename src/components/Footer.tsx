@@ -57,7 +57,7 @@ const Footer = () => {
                     <span className='mr-5 mt-1'>Terms of use</span>
                     <span className='mr-5 mt-1'>Privacy policy </span>
                 </div>
-                <span className='ml-[200px]'>
+                <span className='ml-[20%]'>
                     <button className='py-2 px-10 bg-[#706FE5] rounded-xl font-semibold'>Contact Us</button>
                 </span>
             </div>

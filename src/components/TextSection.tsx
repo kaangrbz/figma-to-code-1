@@ -45,21 +45,21 @@ const TextSection = () => {
                 </div>
 
                 {/* users */}
-                <div className="flex flex-row gap-[60px] mt-10 items-center">
+                <div className="flex flex-row gap-[5%] w-full justify-center mt-10 items-center">
                     <span>
-                        <Image src={user1} alt="" />
+                        <Image src={user1} alt="user" />
                     </span>
                     <span>
-                        <Image src={user2} alt="" />
+                        <Image src={user2} alt="user" />
                     </span>
                     <span className='border-[7px] p-1 border-[#706FE5] rounded-full'>
-                        <Image src={user5} alt="" />
+                        <Image src={user5} alt="user" />
                     </span>
                     <span>
-                        <Image src={user3} alt="" />
+                        <Image src={user3} alt="user" />
                     </span>
                     <span>
-                        <Image src={user4} alt="" />
+                        <Image src={user4} alt="user" />
                     </span>
                 </div>
 
